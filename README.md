@@ -46,5 +46,7 @@ python3 AI.py
 - Implement quiescence search or transposition tables
 - Look at k-ply implementations
 
+# Videos link
 
+https://drive.google.com/drive/folders/100kjuwbdPMjZ3ycMoVPaqOhP2QcEtrcG?usp=drive_link
 
