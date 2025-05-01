@@ -44,6 +44,7 @@ python3 AI.py
 - Add move ordering heuristics
 - Introduce opening books
 - Implement quiescence search or transposition tables
+- Look at k-ply implementations
 
 
 
